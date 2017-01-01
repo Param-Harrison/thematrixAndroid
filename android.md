@@ -11,6 +11,7 @@
 - Android Basics: Multi-screen Apps (udacity)
 - Android Basics: Networking (udacity)
 - Android Basics: Data Storage (udacity)
+- UX Design for Mobile Developers (udacity)
 
 ###Intermediate
 - Developing Android Apps (udacity) -- !New
