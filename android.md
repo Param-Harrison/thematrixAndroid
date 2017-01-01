@@ -25,6 +25,6 @@
 - Android Wear Development (udacity)
 - Android Performance (udacity)
 
-###Open sources to explore
+##Open source codes
 - https://github.com/iSoron/uhabits (Advanced)
 - https://github.com/hidroh/materialistic (Intermediate)
