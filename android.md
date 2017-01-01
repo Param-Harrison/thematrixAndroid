@@ -6,6 +6,7 @@
 
 #Courses
 ###Beginners
+- Java Programming Basics (udacity)
 - Android Development for Beginners (udacity)
 - Android Basics: User Input (udacity)
 - Android Basics: Multi-screen Apps (udacity)
