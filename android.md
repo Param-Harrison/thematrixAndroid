@@ -23,3 +23,7 @@
 - Gradle for Android and Java (udacity)
 - Android Wear Development (udacity)
 - Android Performance (udacity)
+
+###Open sources to explore
+- https://github.com/iSoron/uhabits (Advanced)
+- https://github.com/hidroh/materialistic (Intermediate)
