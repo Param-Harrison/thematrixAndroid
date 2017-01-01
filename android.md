@@ -14,7 +14,7 @@
 - UX Design for Mobile Developers (udacity)
 
 ###Intermediate
-- Developing Android Apps (udacity) -- :new::fire:
+- Developing Android Apps (udacity) -- :fire:
 - Material Design for Android Developers (udacity)
 - Add Google Sign-In to your Android Apps (udacity)
 
