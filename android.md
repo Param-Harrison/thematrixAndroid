@@ -26,5 +26,5 @@
 - Android Performance (udacity)
 
 ##Open source codes
-- https://github.com/iSoron/uhabits (Advanced)
 - https://github.com/hidroh/materialistic (Intermediate)
+- https://github.com/iSoron/uhabits (Advanced)
